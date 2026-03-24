@@ -1,8 +1,8 @@
 <div align="center">
 
-# <img src="https://ryanmcneal.com/favicon.ico" width="28" height="28" /> Dr. Ryan McNeal's Cybersecurity Portfolio
+# <img src="./favicon.png" width="32" height="32" /> Dr. Ryan McNeal's Cybersecurity Portfolio
 
-[![favicon](./favicon.ico)](https://ryanmcneal.com) Dr. Ryan McNeal's Portfolio
+[![Website](favicon.png)](https://ryanmcneal.com) [Dr. Ryan McNeal's website](https://ryanmcneal.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanmcneal1/)
 
 </div>
@@ -57,7 +57,7 @@ Beyond the technical work, I'm committed to mentorship — supporting high schoo
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_ryanmcneal.com-0a0a0a?style=for-the-badge)](https://ryanmcneal.com)
+[![Website](favicon.png)](https://ryanmcneal.com) [Dr. Ryan McNeal's website](https://ryanmcneal.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanmcneal1/)
 
 </div>
