@@ -1,16 +1,19 @@
-## Hi there 👋
+# Dr. Ryan McNeal's IT and Cybersecurity Project Portfolio 🔐
 
-<!--
-**ryanmcnealrs-lang/ryanmcnealrs-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Brief intro paragraph about yourself and your focus areas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚠️ Application Security Projects
+
+- [Dynamic Application Security Testing with Snyk](link-to-snyk-repo)
+- [Another Project](link)
+
+## 🛡️ Vulnerability Management
+
+- [Project Name](link)
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](your-linkedin-url)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](your-github-url)
