@@ -1,8 +1,9 @@
 <div align="center">
 
-# <img src="./favicon.png" width="32" height="32" /> Dr. Ryan McNeal's Cybersecurity Portfolio
+# <img src="./favicon.png" width="28" height="28" style="vertical-align:middle;" /> Dr. Ryan McNeal's Cybersecurity Portfolio
 
-[![Website](favicon.png)](https://ryanmcneal.com) [Dr. Ryan McNeal's website](https://ryanmcneal.com)
+[![Website](https://img.shields.io/badge/ryanmcneal.com-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ryanmcneal.com)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanmcneal1/)
 
 </div>
@@ -57,7 +58,8 @@ Beyond the technical work, I'm committed to mentorship — supporting high schoo
 
 <div align="center">
 
-[![Website](favicon.png)](https://ryanmcneal.com) [Dr. Ryan McNeal's website](https://ryanmcneal.com)
+[![Website](https://img.shields.io/badge/ryanmcneal.com-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ryanmcneal.com)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanmcneal1/)
 
 </div>
