@@ -2,7 +2,7 @@
 
 # <img src="https://ryanmcneal.com/favicon.ico" width="28" height="28" /> Dr. Ryan McNeal's Cybersecurity Portfolio
 
-[![Website](https://img.shields.io/badge/🌐_ryanmcneal.com-0a0a0a?style=for-the-badge&logoColor=white)](https://ryanmcneal.com)
+[![favicon](./favicon.ico)](https://ryanmcneal.com) Dr. Ryan McNeal's Portfolio
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanmcneal1/)
 
 </div>
